@@ -314,7 +314,7 @@ section.products {
 }
 
 section#product {
-    background-image: url(image/bg-img.png);
+    background-image: url(image/bg-img.jpg);
     background-repeat: inherit;
     background-attachment: scroll;
     background-size: cover;
