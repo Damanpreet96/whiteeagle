@@ -211,15 +211,17 @@ nav.navbar.bg-light {
     background-color: #ffffff;
 }
 img.logos {
-    width: 260px;
+    width: 100%;
 }
 .me-auto {
     margin-right: 0 !important; 
 }
 div#counter {
-    display: flex;   
+    display: flex;
     justify-content: space-around;
     text-align: center;
+    align-items: center !important;
+    padding-top: 10px;
 }
 .container.counter {
     border-radius: 9px;  
@@ -1067,7 +1069,7 @@ img#man {
     transform: translateY(10px);
 }
 div#logo-lorem {
-    padding: 55px 0px;
+    padding: 25px 0px;
 }
 div#trade-show {
     padding: 45px 0px 15px 0px;
