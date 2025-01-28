@@ -1034,10 +1034,12 @@
   <script>
     $('.slider-logo').slick({
       dots: false,
-      infinite: false,
-      speed: 300,
+      infinite: true,
+      speed: 200,
+      autoplay: true,  // Add autoplay
+      autoplaySpeed: 2000,
       slidesToShow: 4,
-      slidesToScroll: 4,
+      slidesToScroll: 1,
       responsive: [
         {
           breakpoint: 1024,
