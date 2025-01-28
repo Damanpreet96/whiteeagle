@@ -10,8 +10,6 @@ body {
 html {
     scroll-behavior: smooth;
 }
-
-
 /* common */
 
 .white {
@@ -19,6 +17,7 @@ html {
 }
 a{
     color: #fff;
+    text-decoration: none;
 }
 a,
 a:hover {
