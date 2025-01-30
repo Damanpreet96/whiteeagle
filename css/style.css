@@ -597,7 +597,7 @@ div#Certification {
 }
 .ul-point {
     display: flex;
-    gap: 45px;
+    gap: 33px;
 }
 img.red-dot {
     width: 10px;
@@ -962,7 +962,7 @@ div#pcd {
         grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
     }
     .blog {
-        width: 23%;
+        width: 31%;
         text-align: left;
         background-color: #fff;
         gap: 10px;
